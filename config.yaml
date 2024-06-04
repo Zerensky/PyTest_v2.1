@@ -1,0 +1,4 @@
+site_url: "https://test-stand.gb.ru"
+username: "your_username"
+password: "your_password"
+login_url: "https://test-stand.gb.ru/gateway/login"
